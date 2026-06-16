@@ -40,8 +40,8 @@ walk through any of it, so reach out. A few things I can point to in public:
 
 ### Activity (last 12 months)
 
-- **480 PRs reviewed** for teammates, across **38 repositories** spanning edge,
-  ML, cloud, and fleet infra
+- **597 PRs merged** and **480 reviewed** for teammates, across **38
+  repositories** spanning edge, ML, cloud, and fleet infra
 - most changes merge in **under an hour**
 
 ### Elsewhere
