@@ -40,9 +40,6 @@ walk through any of it, so reach out. A few things I can point to in public:
 
 ### Activity (last 12 months)
 
-Most of my work is in private repos. I've turned on private contributions so the
-graph actually reflects it.
-
 - **480 PRs reviewed** for teammates, across **38 repositories** spanning edge,
   ML, cloud, and fleet infra
 - most changes merge in **under an hour**
